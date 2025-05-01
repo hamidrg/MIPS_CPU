@@ -31,13 +31,6 @@ Below is a sample waveform from the CPU testbench simulation:
 
 ![Simulation Result](simulation.png)
 
-## 📬 Contact Me
-
-If you have any questions, feedback, or collaboration requests, feel free to reach out:
-
-- **Name**: HamidRG 
-- **Email**: [h.r.ghorbani82@gmail.com](mailto:h.r.ghorbani82@gmail.com)  
-- **GitHub**: [github.com/hamidrg](https://github.com/hamidrg)  
 
 ---
 
