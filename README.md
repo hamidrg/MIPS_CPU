@@ -1,8 +1,8 @@
-# 🧠 Simple CPU Implementation in VHDL
+# Simple CPU Implementation in VHDL
 
 This project implements a simple CPU using VHDL as part of an academic course. It includes key components such as the ALU, Control Unit, Register File, and Memory, and demonstrates basic instruction execution and simulation in a modular design.
 
-## ⚙️ Features
+## Features
 
 - Simple RISC-like architecture
 - 16-bit data and address bus
@@ -11,7 +11,7 @@ This project implements a simple CPU using VHDL as part of an academic course. I
 - Separate instruction and data memory
 - Testbench included for verification and debugging
 
-## 🧪 How to Run
+## How to Run
 
 You can simulate the design using any VHDL simulator such as:
 
@@ -20,12 +20,12 @@ You can simulate the design using any VHDL simulator such as:
 - **Xilinx Vivado** (for synthesis and simulation)
 - **Intel Quartus** (if targeting FPGA boards)
 
-## 🧠 Learning Objectives
+## Learning Objectives
 - Understand CPU design from the ground up
 - Gain hands-on experience with hardware description languages
 - Practice modular design and simulation techniques
 
-## 📊 Simulation Waveform
+## Simulation Waveform
 
 Below is a sample waveform from the CPU testbench simulation:
 
